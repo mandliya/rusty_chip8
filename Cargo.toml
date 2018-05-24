@@ -1,0 +1,9 @@
+[package]
+name = "rusty_chip8"
+version = "0.1.0"
+authors = ["mandliya <ravi.mandliya@gmail.com>"]
+
+[dependencies]
+sdl2 = "0.30.0"
+rand = "0.3.15"
+hex-slice = "0.1.4"
